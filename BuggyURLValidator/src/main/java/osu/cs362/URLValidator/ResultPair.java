@@ -22,7 +22,7 @@
  * @version $Revision: 588091 $ $Date: 2007-10-24 17:17:42 -0700 (Wed, 24 Oct 2007) $
  */
  
-package osu;
+package osu.cs362.URLValidators;
  
  public class ResultPair {
       public String item;

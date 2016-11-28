@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package osu;
+package osu.cs362.URLValidator;
 
 import java.io.Serializable;
 import java.util.Arrays;
