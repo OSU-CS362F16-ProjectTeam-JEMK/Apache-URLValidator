@@ -1,0 +1,6 @@
+mkdir -p ~/public_html/pit-report
+rm -rf ~/public_html/pit-report/*
+cp -rf target/pit-reports/. ~/public_html/pit-report
+chmod 0775 ~/public_html
+chmod -R 0775 ~/public_html/pit-report
+
