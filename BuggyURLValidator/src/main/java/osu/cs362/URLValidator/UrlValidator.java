@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+package osu;
 
 import java.io.Serializable;
 import java.util.Arrays;
