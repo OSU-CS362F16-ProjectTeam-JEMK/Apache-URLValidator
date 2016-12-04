@@ -1,2 +1,1 @@
-mvn clean test -Dtest=UrlValidatorMockTest,UnitTests
-
+mvn clean test -Dtest=UrlValidatorMockTest,UnitTests,DomainValidatorTest,RegexValidatorTest,UrlValidatorTest,InetAddressValidatorTest
